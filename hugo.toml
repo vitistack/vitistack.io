@@ -1,7 +1,6 @@
 baseURL = 'https://vitistack.io/'
 languageCode = 'en-us'
 title = 'Vitistack - Kubernetes Infrastructure Platform'
-theme = 'ananke'
 
 [params]
   description = "Infrastructure platform for delivering Kubernetes platforms programmatically"
